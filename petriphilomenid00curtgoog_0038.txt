@@ -1,0 +1,43 @@
+16
+
+motois NUMERI QUADRA'H EKTRAC'HQ
+
+Radieem uulneri quadrati extrahere est proposito aliquo
+numero radicem eius quadratam invenirey si numerus quadratus
+suerit propositus: si vero non sit quadratus, radicem maximi
+
+5 quadrati sub nurnero proposito contenti invenire. Si velis igitur
+radicem alicuius numeri quadrati extrahere, scribe numerum
+illum per suns difi'erentias, et computa numerum figurarum,
+utrum sit par vel impar( Si par, incipiendum est operari sub
+penultima7 si impar, ab ultima; et ut breviter dicatur⁷ semper ab
+
+10 impari ultima incipiendum est. Suh ultima igitur figura iu irn-
+pari loeo posita inveniendus est quidam digitus, qui duetus in
+se deleat totum sibi suprapositum respectu sui, vel in quantum
+vicinius potest. 'sali autem digito invento, et ducto in se, et
+a superiori subtracto duplandus est ille digitus, et duplatum
+
+15 ponendum est sub proxima figura anteriori versus dexiram et
+eius subduplum sul] illo. Quo racto inveniendus est quidam
+digitus >suh proximu ligura ante duplatum, qui [luctus in dupla-
+tum deleat toturn suprapositum respectu duplati, deinde [luctus
+in se deleat totum suprapositum respectu sui vel in quantum
+
+20 vicinius potest. Vel potest itu subtrahi digitus ultimo inventus,
+ut dueatur in duplatum vel duplata et postea iu seruet ipsum,
+deinde autem duo producta simul addantur, ita quod prima
+figura ultimi producti ponatur ante primam primi producti, et
+secunda addatur primae et ita deinceps, et itu simul subtra—
+
+25 hatur a toto numero respectu digiti iruenti7 et idern est, ac si
+fiat divisio, Si autern contingat, quod non possit aliquis digitus
+inveniri post anterior-ationem, tune ponenda est eyt'ra sub tertia
+figura anteriori, (et suh illa nysra etiam eysra), et anteriorandum
+est primum duplatum eum suo subduplo. Nec cessandum est
+
+2³⁰ a tali digiti inventione, nec a digiti inventi duplatione‚ nec a
+duplatorum anterioratione, neu a subdupli sub-duplo positione,
+donec suh prima figura iuventus suerii quidam digitus, qui
+duetus in omnia duplata deleat totum suprapositum respectu
+

@@ -1,0 +1,49 @@
+BIBLIOGRAPHIC RECORD TARGET
+
+Graduate Library
+Univetsity of Michigan
+
+Preservation Office
+
+Storage Number:
+
+ACV7283
+
+UL FMT B RT a BLm TsC DT 07s19s88 RJDT 04s30s99 CC STAT mm EsL 1
+035) 1: : Ι a (RLIN)M1UG86-1384514
+
+035s2: : Ι a (CaOTULAS)160652777
+
+040::1aN1C1cN1C1dMiU
+
+10021 ; {a Sacro Eosco, Joannes del ld fl. 1230.
+
+245:00: {a Petri Philomeni de Dacia in algorismum vulgarem Johannis de
+
+Sacrobosco commentarius. lc Una cum algorismo ipso edidit et praefatus est
+Maximilianus Curtze.
+
+260: ⁴. {a Hauniae‘ {b A. F. Host' [c 1897.
+
+300s1: z {a xix! 92 p. Ιε 24 cm.
+
+65os1: 0: Ι a Arithmetic Ιχ Early works to 19004
+
+700 s 120 : 1 a Petrus Phssomenus de Dacia] Ι d fl. 12914
+700] 211 z {a Curtzel Maximilianl ld 1837-
+
+740( 3: 1 Ι a In algorismum vulgarem Iohannis de Sacrobosco cementarius.
+998: z Ιε KLB [s 9124
+
+Scanned by Imagenes Digitales
+Nogaless AZ
+
+On behalf of
+Preservafion Division
+The University of Michigan Libraries
+
+Date work Began:
+Carnem Operator:
+
+ 
+
